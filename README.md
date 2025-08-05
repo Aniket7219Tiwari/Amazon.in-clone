@@ -1,2 +1,2 @@
 # Amazon.in-clone
-Amazon.in Website Front end  Clone using HTML &amp; CSS
+Amazon.in Website Front end  Clone using HTML & CSS
